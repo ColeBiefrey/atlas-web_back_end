@@ -1,0 +1,1 @@
+These files are to further my understanding of classes to expand on my basics on working with JS
